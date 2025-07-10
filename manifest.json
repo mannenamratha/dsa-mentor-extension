@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "DSA Mentor Buddy",
+  "version": "1.0",
+  "description": "A Chrome extension that gives helpful hints while solving DSA problems on LeetCode.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    }
+  },
+  "permissions": [],
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}
